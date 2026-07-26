@@ -40,8 +40,6 @@ CCDance/
 │   │   └── run_generation.py           # Unified generation baseline
 │   ├── run_baselines.py                # Master experiment orchestration
 │   └── results_summary/                # Aggregated benchmark results
-└── paper/
-    └── ccdance.pdf                     # Dataset paper (KDD 2027)
 ```
 
 ## Quick Start
@@ -199,8 +197,6 @@ This dataset is released under the **CC BY-NC 4.0** license for academic researc
 - ✅ Academic use, research, and education
 - ❌ Commercial use without explicit permission
 - ❌ Personnel scoring or educational punishment applications
-
-```
 
 ## Contact
 
