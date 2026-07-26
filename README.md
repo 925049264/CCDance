@@ -203,4 +203,4 @@ This dataset is released under the **CC BY-NC 4.0** license for academic researc
 For dataset access requests, questions, or collaboration inquiries, please open a GitHub issue or contact the authors.
 
 ---
-*CCDance was collected at Wuhan College of Communication during the 2025–2026 academic year with institutional ethics approval.*
+*CCDance was collected at  during the 2025–2026 academic year with institutional ethics approval.*
