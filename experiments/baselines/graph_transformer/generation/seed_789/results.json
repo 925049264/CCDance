@@ -1,0 +1,11 @@
+{
+  "model": "graph_transformer_generation",
+  "seed": 789,
+  "test_cosine_similarity": 0.4445140196217431,
+  "bleu1": 0.30890464933018125,
+  "bleu2": 0.05381944444444445,
+  "bleu4": 0.0015873015873015873,
+  "rouge_l": 0.2066262633350089,
+  "bertscore": 0.16369100712493964,
+  "embed_dim": 256
+}

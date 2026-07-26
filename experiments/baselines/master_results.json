@@ -1,0 +1,59 @@
+{
+  "USDL": {
+    "classification": {
+      "accuracy": 0.39,
+      "accuracy_std": 0.032,
+      "macro_f1": 0.389,
+      "qwk": 0.068
+    },
+    "generation": {
+      "bleu1": 0.049
+    }
+  },
+  "CoRe": {
+    "classification": {
+      "accuracy": 0.396,
+      "accuracy_std": 0.031,
+      "macro_f1": 0.396,
+      "qwk": 0.099
+    },
+    "generation": {
+      "bleu1": 0.055
+    }
+  },
+  "VL-Transformer": {
+    "classification": {
+      "accuracy": 0.396,
+      "accuracy_std": 0.053,
+      "macro_f1": 0.392,
+      "qwk": 0.055
+    },
+    "generation": {
+      "bleu1": 0.062
+    }
+  },
+  "LeViT-Hybrid": {
+    "classification": {
+      "accuracy": 0.39,
+      "accuracy_std": 0.039,
+      "macro_f1": 0.386,
+      "qwk": 0.078
+    },
+    "generation": {
+      "bleu1": 0.053
+    }
+  },
+  "Graph-Transformer": {
+    "paper": "SciRep 2026",
+    "architecture": "GraphTransformer",
+    "classification": {
+      "accuracy": 0.321,
+      "accuracy_std": 0.027,
+      "macro_f1": 0.301,
+      "qwk": 0.099
+    },
+    "generation": {
+      "bleu1": 0.05
+    }
+  }
+}

@@ -1,0 +1,1 @@
+It is recommended to reduce unnecessary movement traces during the conversion process between holding the fan and pushing the fan to make the transition between the two smoother and more seamless.

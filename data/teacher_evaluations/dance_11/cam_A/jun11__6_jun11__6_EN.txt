@@ -1,0 +1,1 @@
+Demonstrates a high degree of spatial awareness during training sets. While maintaining the existing directional accuracy, we can further explore the "height levels" of space - that is, improve the quality of the alternate use of actions in the three spatial levels of high, medium and low.

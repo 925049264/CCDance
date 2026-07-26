@@ -1,0 +1,5 @@
+{
+  "model": "USDLModel",
+  "bleu1": 0.003,
+  "rougel": 0.002
+}

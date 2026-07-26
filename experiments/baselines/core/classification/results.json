@@ -1,0 +1,7 @@
+{
+  "model": "CoReModel",
+  "accuracy": 0.283,
+  "accuracy_std": 0.031,
+  "macro_f1": 0.259,
+  "qwk": 0.073
+}

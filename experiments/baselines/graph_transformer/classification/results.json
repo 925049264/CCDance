@@ -1,0 +1,6 @@
+{
+  "accuracy": 0.321,
+  "accuracy_std": 0.027,
+  "macro_f1": 0.301,
+  "qwk": 0.099
+}

@@ -1,0 +1,11 @@
+{
+  "model": "levit_hybrid_generation",
+  "seed": 456,
+  "test_cosine_similarity": 0.4377116594049666,
+  "bleu1": 0.30579421261325584,
+  "bleu2": 0.04919573251332709,
+  "bleu4": 0.0004078520464174927,
+  "rouge_l": 0.20481813738800203,
+  "bertscore": 0.16823394849982143,
+  "embed_dim": 256
+}

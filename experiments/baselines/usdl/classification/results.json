@@ -1,0 +1,7 @@
+{
+  "model": "USDLModel",
+  "accuracy": 0.321,
+  "accuracy_std": 0.046,
+  "macro_f1": 0.291,
+  "qwk": 0.071
+}

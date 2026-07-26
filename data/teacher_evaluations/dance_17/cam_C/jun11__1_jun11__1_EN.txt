@@ -1,0 +1,1 @@
+The combination structure information such as the direction conversion node is in an unstable state. Poor control of the completeness of the combination

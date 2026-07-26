@@ -1,0 +1,1 @@
+It is recommended to inject character information into the "pauses" and "silence" of the action so that the performance maintains a consistent quality between movement and stillness.

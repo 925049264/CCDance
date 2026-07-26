@@ -1,0 +1,1 @@
+There is a problem of timing misalignment between the movements of the upper limbs and the grinding steps of the lower limbs - the start of the movements of the upper limbs is often earlier or later than the completion of the grinding steps of the lower limbs, and the two are not synchronized in the same beat.

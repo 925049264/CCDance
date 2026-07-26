@@ -1,0 +1,1 @@
+The overall center of gravity during movement is unstable and the traveling route is seriously deviated. After each wipe, the body shifts sideways in the direction of the power leg or rocks back and forth, causing the movement route to seriously deviate from the designed trajectory.

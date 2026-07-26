@@ -1,0 +1,11 @@
+{
+  "model": "vl_transformer_generation",
+  "seed": 123,
+  "test_cosine_similarity": 0.45000165204207104,
+  "bleu1": 0.30582761079214976,
+  "bleu2": 0.06393012984248617,
+  "bleu4": 0.00464190258004691,
+  "rouge_l": 0.1900951828872099,
+  "bertscore": 0.18138190570723034,
+  "embed_dim": 256
+}

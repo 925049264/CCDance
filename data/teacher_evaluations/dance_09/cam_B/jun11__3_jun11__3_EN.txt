@@ -1,0 +1,1 @@
+During the wiping process, the foot contact trajectory "jumps" and the heel leaves the ground early. The heel leaves the ground too early, causing the sole of the foot to appear in an intermediate suspended state of "the heel has left but the toe has not reached" during the wiping process, and there is a brief interruption of contact between the foot and the ground.

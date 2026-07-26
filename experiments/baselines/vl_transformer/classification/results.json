@@ -1,0 +1,7 @@
+{
+  "model": "VLTransformer",
+  "accuracy": 0.277,
+  "accuracy_std": 0.039,
+  "macro_f1": 0.16,
+  "qwk": -0.016
+}

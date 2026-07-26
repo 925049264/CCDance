@@ -1,0 +1,7 @@
+{
+  "model": "LeViTHybrid",
+  "accuracy": 0.333,
+  "accuracy_std": 0.018,
+  "macro_f1": 0.199,
+  "qwk": 0.0
+}
