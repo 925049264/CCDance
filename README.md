@@ -200,17 +200,6 @@ This dataset is released under the **CC BY-NC 4.0** license for academic researc
 - ❌ Commercial use without explicit permission
 - ❌ Personnel scoring or educational punishment applications
 
-## Citation
-
-If you use CCDance in your research, please cite:
-
-```bibtex
-@inproceedings{ccdance2027,
-  title={CCDance: A Large-Scale Multi-Modal Benchmark for Chinese Dance Quality Assessment},
-  author={Anonymous Author(s)},
-  booktitle={Proceedings of the 33rd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)},
-  year={2027}
-}
 ```
 
 ## Contact
